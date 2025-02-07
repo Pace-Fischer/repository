@@ -94,6 +94,10 @@ var config_data = `
       "allowableResponses": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18 19 20 23 24 25 26 27 28 29 30 31 32 33 34 35 36",
       "shape": "circle 5 black red true"
     },
+        { "name": "Removed Algae",
+      "code": "ar",
+      "type": "counter"
+    },
     { "name": "Processor Score",
       "code": "aps",
       "type": "counter"
@@ -118,6 +122,10 @@ var config_data = `
     },
     { "name": "Coral L4",
       "code": "tc4",
+      "type": "counter"
+    },
+        { "name": "Removed Algae",
+      "code": "ar2",
       "type": "counter"
     },
     { "name": "Processor Score",
