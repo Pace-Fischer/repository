@@ -65,7 +65,7 @@ var config_data = `
       "shape": "circle 5 black red true"
     }
   ],
-  "auton": [
+  "autonomous": [
     { "name": "Leave Starting Line",
       "code": "al",
       "type": "bool"
