@@ -1,7 +1,7 @@
 var config_data = `
 {
   "dataFormat": "tsv",
-  "title": "Scouting PASS 2025",
+  "title": "Watergame Scouting 2025",
   "page_title": "WATERGAME 2025",
   "checkboxAs": "10",
   "prematch": [
