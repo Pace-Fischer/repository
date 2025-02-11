@@ -57,7 +57,7 @@ var config_data = `
     },
     { "name": "Preloaded?",
       "code": "preload",
-      "type": "bool"
+      "type": "true"
     },
     { "name": "Auto Start Position",
       "code": "as",
